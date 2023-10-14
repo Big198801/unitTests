@@ -1,7 +1,4 @@
-package seminar2_task2Test;
-
-import seminar2_task2.Cart;
-import seminar2_task2.Product;
+package seminar2_task2;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

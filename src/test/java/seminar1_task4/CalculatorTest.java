@@ -1,10 +1,9 @@
-package seminar1_task4Test;
+package seminar1_task4;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThatThrownBy;
 
 import org.junit.jupiter.api.*;
-import seminar1_task4.Calculator;
 
 class CalculatorTest {
     Calculator calculator;

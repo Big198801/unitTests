@@ -1,6 +1,4 @@
-package seminar2_task1Test;
-
-import seminar2_task1.StringConcatenation;
+package seminar2_task1;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;

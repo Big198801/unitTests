@@ -1,6 +1,4 @@
-package seminar2_task1Test;
-
-import seminar2_task1.MVSCalculator;
+package seminar2_task1;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

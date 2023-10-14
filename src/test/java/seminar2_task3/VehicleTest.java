@@ -1,8 +1,4 @@
-package seminar2_task3Test;
-
-import seminar2_task3.Vehicle;
-import seminar2_task3.Car;
-import seminar2_task3.Motorcycle;
+package seminar2_task3;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

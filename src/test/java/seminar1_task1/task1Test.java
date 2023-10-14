@@ -1,4 +1,4 @@
-package seminar1_task1Test;
+package seminar1_task1;
 
 //import org.junit.Test;
 import org.junit.jupiter.api.*;

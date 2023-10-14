@@ -1,7 +1,4 @@
-package seminar1_task5Test;
-
-import seminar1_task5.Product;
-import seminar1_task5.Shop;
+package seminar1_task5;
 
 import java.util.ArrayList;
 import java.util.List;

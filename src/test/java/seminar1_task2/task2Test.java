@@ -1,4 +1,4 @@
-package seminar1_task2Test;
+package seminar1_task2;
 
 import static org.junit.jupiter.api.Assertions.*;
 
