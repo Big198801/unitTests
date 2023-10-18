@@ -25,6 +25,6 @@ public class PaymentProcessorMockTest {
         verify(mockGateway, times(1)).processPayment(anyDouble());
 
         // Проверяем результат, который должен быть true
-        assertTrue(result);
+        assertTrue(result); // JUnit
     }
 }
