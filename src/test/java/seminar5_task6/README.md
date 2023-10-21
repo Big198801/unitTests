@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;```System.out.println(contact);```  
 - корректность данных списка:  
 ```assertEquals("Вася", allContacts.get(0).getName());```  
-- и т.д.  
+- будем редактировать контакты, удалять и снова проверять список.  
 
 ### 3. Сквозные тесты
 
